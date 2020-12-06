@@ -13,7 +13,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Altseed2" Version="2.0.0-beta4" />
+    <Reference Include="..\..\lib\Altseed2\Altseed2.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="MessagePack" Version="2.2.60" />
   </ItemGroup>
 

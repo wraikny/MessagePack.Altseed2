@@ -22,6 +22,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Reference Include="..\..\lib\Altseed2\Altseed2.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\..\src\MessagePack.Altseed2\MessagePack.Altseed2.csproj" />
   </ItemGroup>
 
