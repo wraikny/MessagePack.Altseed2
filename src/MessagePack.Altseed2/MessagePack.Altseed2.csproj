@@ -6,6 +6,12 @@
     <PackageId>MessagePack.Altseed2</PackageId>
     <Version>1.0.0</Version>
     <Authors>wraikny</Authors>
+    <Description>MessagePack-CSharp extension library for Altseed2.</Description>
+    <PackageProjectUrl>https://github.com/wraikny/MessagePack.Altseed2</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Copyright>Copyright (c) 2021 wraikny</Copyright>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>MsgPack,MessagePack,Serialization,Serializer,Altseed2</PackageTags>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
