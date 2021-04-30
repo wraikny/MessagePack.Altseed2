@@ -1,3 +1,7 @@
+[![](https://github.com/wraikny/MessagePack.Altseed2/workflows/CI/badge.svg)](https://github.com/wraikny/MessagePack.Altseed2/actions?query=workflow%3ACI)
+[![Nuget](https://img.shields.io/nuget/v/MessagePack.Altseed2?style=plastic)](https://www.nuget.org/packages/MessagePack.Altseed2/)
+
+
 # MessagePack.Altseed2
 
 MessagePack.Altseed2 is a
